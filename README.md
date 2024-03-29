@@ -1,11 +1,8 @@
-File: knapsackDev_BruteForce.py
-Description: Knapsack Packing Algorithm - Brute Force Approach
-Notes: This file is a re-written assignment from my MS in Business Analytics degree from William & Mary. It runs a heuristic algorithm to efficiently pack "knapsacks" with items of varying volumes and maximize the total value.
+File "knapsackDev_BruteForce.py" is a knapsack packing algorithm taking a brute force approach. This file is a re-written assignment from my MS in Business Analytics degree from William & Mary. It runs a heuristic algorithm to efficiently pack "knapsacks" with items of varying volumes and maximize the total value.
 
 
-File: knapsack.json
-Description: JSON File Containing Knapsack Problems
-Notes: This file contains 10 knapsack problems (as dictionaries, stored in a list). Here is the full contents of this file, reformatted for readability.
+File "knapsack.json" is a JSON file containing the knapsack problems. This file contains 10 knapsack problems (as dictionaries, stored in a list). Here is the full contents of this file, reformatted for readability.
+
 
 [
 
